@@ -1,6 +1,10 @@
 {
   "name": "nodejskoa",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohitkumaris/UserManagementApi"
+  },
   "description": "node js with koa and mongoose",
   "main": "index.js",
   "scripts": {
