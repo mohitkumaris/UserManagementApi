@@ -1,11 +1,11 @@
 {
-  "name": "nodejskoa",
+  "name": "nodejsexpress",
   "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/mohitkumaris/UserManagementApi"
   },
-  "description": "node js with koa and mongoose",
+  "description": "node js with express and mongoose",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,7 @@
   "author": "Mohit Kumar",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^4.11.11"
+    "mongoose": "^4.11.11",
+    "cors": "2.7.1"
   }
 }
